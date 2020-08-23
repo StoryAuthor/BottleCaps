@@ -1,7 +1,3 @@
-![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/BottleCaps/blob/master/1.jpg)
-![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/BottleCaps/blob/master/2.jpg)
-![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/BottleCaps/blob/master/3.jpg)
-![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/BottleCaps/blob/master/4.jpg)
 ![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/BottleCaps/blob/master/Attention-Bottle-Cap-Collectors-1-BLOG.png)
 ![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/BottleCaps/blob/master/beer-bottle-cap-collectin-640x533.jpg)
 ![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/BottleCaps/blob/master/big.jpg)
