@@ -82,7 +82,7 @@
                   <td class="follow-button-container">
       <form action="/DJJ_5K/follow" method="post">
       <span class="m2-auth-token">
-    <input name="authenticity_token" type="hidden" value="73112d18cfe2f1ad54eb8b245916dab3460daff9"/>
+    <input name="authenticity_token" type="hidden" value="66e84c1e17cff5e22d38c06357d017d9c2507413"/>
   </span>
     
       <span class="w-button-common w-button-follow">
@@ -138,7 +138,7 @@
           </a>
     </td>
     <td class="action">
-        <a href="/statuses/1297617334937571329/favorite?p=f&amp;authenticity_token=73112d18cfe2f1ad54eb8b245916dab3460daff9" class="favorite">
+        <a href="/statuses/1297617334937571329/favorite?p=f&amp;authenticity_token=66e84c1e17cff5e22d38c06357d017d9c2507413" class="favorite">
                 <img alt="Like"   src="https://ma.twimg.com/twitter-mobile/a8491f04da4e54be98cff3a86c58f23a770c26bd/images/sprites/detail_heart.gif">
 
         </a>
