@@ -2,7 +2,6 @@
 ![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/BottleCaps/blob/master/EgIPuHXWoAA5NOH.jpg)
 ![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/BottleCaps/blob/master/EgIy4YtXYAM1oEH.jpg)
 ![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/BottleCaps/blob/master/EgMDD39WAAc6NRL.jpg)
-![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/BottleCaps/blob/master/IMG_t12yp6.jpg)
 ![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/BottleCaps/blob/master/queenanne.jpg)
 ![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/BottleCaps/blob/master/Screenshot_20200823-212606.png)
 ![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/BottleCaps/blob/master/Screenshot_20200823-224337.png)
