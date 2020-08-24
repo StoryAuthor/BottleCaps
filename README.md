@@ -1,3 +1,4 @@
+![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/BottleCaps/blob/master/EgIElY2XgAggldm.jpg)
 ![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/BottleCaps/blob/master/EgIP27aXgAAUsVn.jpg)
 ![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/BottleCaps/blob/master/EgIPuHXWoAA5NOH.jpg)
 ![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/BottleCaps/blob/master/EgIy4YtXYAM1oEH.jpg)
