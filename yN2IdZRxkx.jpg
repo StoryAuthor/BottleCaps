@@ -332,7 +332,7 @@ window.onload = function(){disableSelection(document.body);};
 			
 					<div class="topbar-today-date">
 						<span class="fa fa-clock-o" aria-hidden="true"></span>
-						<strong class="inner-text">sábado, agosto 29 2020</strong>
+						<strong class="inner-text">domingo, agosto 30 2020</strong>
 					</div>
 					
 			<div class="tie-alignleft">
@@ -347,6 +347,31 @@ window.onload = function(){disableSelection(document.body);};
 	<ul id="breaking-news-in-header" class="breaking-news" data-type="reveal" data-arrows="true">
 
 		
+							<li class="news-item">
+								<a href="https://mundodavelocidade.com.br/formula-2/robert-shwartzman-conquista-terceira-vitoria-na-formula-2/" title="Robert Shwartzman conquista terceira vitória na Fórmula 2">Robert Shwartzman conquista terceira vitória na Fórmula 2</a>
+							</li>
+
+							
+							<li class="news-item">
+								<a href="https://mundodavelocidade.com.br/formula-3/logan-sargeant-conquista-segunda-vitoria-na-temporada-da-formula-3/" title="Logan Sargeant conquista segunda vitória na temporada da Fórmula 3">Logan Sargeant conquista segunda vitória na temporada da Fórmula 3</a>
+							</li>
+
+							
+							<li class="news-item">
+								<a href="https://mundodavelocidade.com.br/superformula/hirakawa-conquista-vitoria-na-primeira-etapa-do-superformula/" title="Hirakawa conquista vitória na primeira etapa do Superformula">Hirakawa conquista vitória na primeira etapa do Superformula</a>
+							</li>
+
+							
+							<li class="news-item">
+								<a href="https://mundodavelocidade.com.br/nascar/byron-vence-a-primeira-na-cup-series-e-jimmie-johnson-esta-fora-dos-playoffs/" title="Byron vence a primeira na Cup Series e Jimmie Johnson está fora dos playoffs">Byron vence a primeira na Cup Series e Jimmie Johnson está fora dos playoffs</a>
+							</li>
+
+							
+							<li class="news-item">
+								<a href="https://mundodavelocidade.com.br/gt-sprint-race/disputas-excelentes-na-segunda-etapa-do-gt-sprint-race/" title="Disputas excelentes na segunda etapa do GT Sprint Race">Disputas excelentes na segunda etapa do GT Sprint Race</a>
+							</li>
+
+							
 							<li class="news-item">
 								<a href="https://mundodavelocidade.com.br/indycar/scott-dixon-conquista-vitoria-50-na-indycar/" title="Scott Dixon conquista vitória 50 na IndyCar">Scott Dixon conquista vitória 50 na IndyCar</a>
 							</li>
@@ -369,31 +394,6 @@ window.onload = function(){disableSelection(document.body);};
 							
 							<li class="news-item">
 								<a href="https://mundodavelocidade.com.br/formula-1/lewis-hamilton-garante-melhor-marca-do-final-de-semana-no-ultimo-treino-livre/" title="Lewis Hamilton garante melhor marca do final de semana no último treino livre">Lewis Hamilton garante melhor marca do final de semana no último treino livre</a>
-							</li>
-
-							
-							<li class="news-item">
-								<a href="https://mundodavelocidade.com.br/rally/equilibrio-e-o-ponto-alto-do-rally-jalapao/" title="Equilíbrio é o ponto alto do Rally Jalapão">Equilíbrio é o ponto alto do Rally Jalapão</a>
-							</li>
-
-							
-							<li class="news-item">
-								<a href="https://mundodavelocidade.com.br/formula-3/lirim-zendeli-domina-a-primeira-da-f3-em-spa-francorchamps/" title="Lirim Zendeli domina a primeira da F3, em Spa-Francorchamps">Lirim Zendeli domina a primeira da F3, em Spa-Francorchamps</a>
-							</li>
-
-							
-							<li class="news-item">
-								<a href="https://mundodavelocidade.com.br/agenda/agenda-do-final-de-semana-29-30-08/" title="Agenda do final de semana 29-30/08">Agenda do final de semana 29-30/08</a>
-							</li>
-
-							
-							<li class="news-item">
-								<a href="https://mundodavelocidade.com.br/indycar/final-de-semana-com-tom-de-despedida-para-tony-kanaan-na-indycar/" title="Final de semana em tom de despedida para Tony Kanaan na IndyCar">Final de semana em tom de despedida para Tony Kanaan na IndyCar</a>
-							</li>
-
-							
-							<li class="news-item">
-								<a href="https://mundodavelocidade.com.br/endurance-brasil/bruna-tomaselli-confirma-participacao-na-etapa-de-curitiba-do-endurance-brasil/" title="Bruna Tomaselli confirma participação na etapa de Curitiba do Endurance Brasil">Bruna Tomaselli confirma participação na etapa de Curitiba do Endurance Brasil</a>
 							</li>
 
 							
@@ -555,7 +555,7 @@ window.onload = function(){disableSelection(document.body);};
 				
 				<span class="meta-author meta-item"><a href="https://mundodavelocidade.com.br/author/emersonluz/" class="author-name" title="Emerson Luz">Emerson Luz</a>
 				</span>
-			<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>6 dias ago</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://mundodavelocidade.com.br/indycar/takuma-sato-conquista-segunda-vitoria-na-indy500/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span><span class="meta-reading-time meta-item"><span class="fa fa-bookmark" aria-hidden="true"></span> 5 minutes read</span> </div><div class="clearfix"></div></div><!-- .post-meta -->	</div><!-- .entry-header /-->
+			<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>7 dias ago</span></span><div class="tie-alignright"><span class="meta-comment meta-item"><a href="https://mundodavelocidade.com.br/indycar/takuma-sato-conquista-segunda-vitoria-na-indy500/#respond"><span class="fa fa-comments" aria-hidden="true"></span> 0</a></span><span class="meta-reading-time meta-item"><span class="fa fa-bookmark" aria-hidden="true"></span> 5 minutes read</span> </div><div class="clearfix"></div></div><!-- .post-meta -->	</div><!-- .entry-header /-->
 
 	
 	
@@ -728,14 +728,14 @@ Obrigado por estarem aqui e sejam BEM VINDOS ao Mundo da Velocidade!!				</div><
 							<div class="related-item tie-standard">
 
 								
-			<a href="https://mundodavelocidade.com.br/indycar/em-laguna-seca-matheus-leist-encerra-segunda-temporada-completa-na-indy/" title="Em Laguna Seca, Matheus Leist encerra segunda temporada completa na Indy" class="post-thumb">
+			<a href="https://mundodavelocidade.com.br/indycar/gp-de-sao-petersburgo-nao-tera-publico-mas-corre-risco-de-ser-cancelado-devido-a-pandemia-do-coronavirus/" title="GP de São Petersburgo não terá público, mas corre risco de ser cancelado devido a pandemia do Coronavírus" class="post-thumb">
 				<div class="post-thumb-overlay-wrap">
 					<div class="post-thumb-overlay">
 						<span class="icon"></span>
 					</div>
 				</div>
-			<img width="390" height="220" src="https://mundodavelocidade.com.br/wp-content/uploads/2019/09/369117_908336_1d8_1eb_2088053_3614553021_5-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" /></a><div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>setembro 23, 2019</span></span><div class="tie-alignright"></div><div class="clearfix"></div></div><!-- .post-meta -->
-								<h3 class="post-title"><a href="https://mundodavelocidade.com.br/indycar/em-laguna-seca-matheus-leist-encerra-segunda-temporada-completa-na-indy/" title="Em Laguna Seca, Matheus Leist encerra segunda temporada completa na Indy">Em Laguna Seca, Matheus Leist encerra segunda temporada completa na Indy</a></h3>
+			<img width="390" height="220" src="https://mundodavelocidade.com.br/wp-content/uploads/2020/03/ESrQP29UMAEkgWE-390x220.jpeg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" /></a><div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>março 12, 2020</span></span><div class="tie-alignright"></div><div class="clearfix"></div></div><!-- .post-meta -->
+								<h3 class="post-title"><a href="https://mundodavelocidade.com.br/indycar/gp-de-sao-petersburgo-nao-tera-publico-mas-corre-risco-de-ser-cancelado-devido-a-pandemia-do-coronavirus/" title="GP de São Petersburgo não terá público, mas corre risco de ser cancelado devido a pandemia do Coronavírus">GP de São Petersburgo não terá público, mas corre risco de ser cancelado devido a pandemia do Coronavírus</a></h3>
 
 							</div><!-- .related-item /-->
 
@@ -743,14 +743,14 @@ Obrigado por estarem aqui e sejam BEM VINDOS ao Mundo da Velocidade!!				</div><
 							<div class="related-item">
 
 								
-			<a href="https://mundodavelocidade.com.br/indycar/marco-andretti-e-o-mais-rapido-no-fast-friday-em-indianapolis/" title="Marco Andretti é o mais rápido no &#8220;Fast Friday&#8221; em Indianápolis" class="post-thumb">
+			<a href="https://mundodavelocidade.com.br/indycar/apos-largar-da-ultima-posicao-simon-pagenaud-faz-prova-incrivel-e-vence-em-iowa/" title="Após largar da última posição, Simon Pagenaud faz prova incrível e vence em Iowa" class="post-thumb">
 				<div class="post-thumb-overlay-wrap">
 					<div class="post-thumb-overlay">
 						<span class="icon"></span>
 					</div>
 				</div>
-			<img width="390" height="220" src="https://mundodavelocidade.com.br/wp-content/uploads/2020/08/IMG_20200814_210557-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" /></a><div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>2 semanas ago</span></span><div class="tie-alignright"></div><div class="clearfix"></div></div><!-- .post-meta -->
-								<h3 class="post-title"><a href="https://mundodavelocidade.com.br/indycar/marco-andretti-e-o-mais-rapido-no-fast-friday-em-indianapolis/" title="Marco Andretti é o mais rápido no &#8220;Fast Friday&#8221; em Indianápolis">Marco Andretti é o mais rápido no &#8220;Fast Friday&#8221; em Indianápolis</a></h3>
+			<img width="390" height="220" src="https://mundodavelocidade.com.br/wp-content/uploads/2020/07/IMG_20200718_001540-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" /></a><div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>julho 18, 2020</span></span><div class="tie-alignright"></div><div class="clearfix"></div></div><!-- .post-meta -->
+								<h3 class="post-title"><a href="https://mundodavelocidade.com.br/indycar/apos-largar-da-ultima-posicao-simon-pagenaud-faz-prova-incrivel-e-vence-em-iowa/" title="Após largar da última posição, Simon Pagenaud faz prova incrível e vence em Iowa">Após largar da última posição, Simon Pagenaud faz prova incrível e vence em Iowa</a></h3>
 
 							</div><!-- .related-item /-->
 
@@ -758,14 +758,14 @@ Obrigado por estarem aqui e sejam BEM VINDOS ao Mundo da Velocidade!!				</div><
 							<div class="related-item">
 
 								
-			<a href="https://mundodavelocidade.com.br/indycar/pato-oward-lidera-carb-day-ultimo-treino-livre-antes-da-largada-para-indy500/" title="Pato O&#8217;Ward lidera &#8220;Carb Day&#8221;, último treino livre antes da largada para Indy500" class="post-thumb">
+			<a href="https://mundodavelocidade.com.br/indycar/vitorias-brasileiras-na-indy500-corridas-completas/" title="Vitórias brasileiras na Indy500, corridas completas" class="post-thumb">
 				<div class="post-thumb-overlay-wrap">
 					<div class="post-thumb-overlay">
 						<span class="icon"></span>
 					</div>
 				</div>
-			<img width="390" height="220" src="https://mundodavelocidade.com.br/wp-content/uploads/2020/08/IMG_20200821_163005-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" /></a><div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>1 semana ago</span></span><div class="tie-alignright"></div><div class="clearfix"></div></div><!-- .post-meta -->
-								<h3 class="post-title"><a href="https://mundodavelocidade.com.br/indycar/pato-oward-lidera-carb-day-ultimo-treino-livre-antes-da-largada-para-indy500/" title="Pato O&#8217;Ward lidera &#8220;Carb Day&#8221;, último treino livre antes da largada para Indy500">Pato O&#8217;Ward lidera &#8220;Carb Day&#8221;, último treino livre antes da largada para Indy500</a></h3>
+			<img width="390" height="220" src="https://mundodavelocidade.com.br/wp-content/uploads/2020/05/IMG_20200524_064525-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" /></a><div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>maio 24, 2020</span></span><div class="tie-alignright"></div><div class="clearfix"></div></div><!-- .post-meta -->
+								<h3 class="post-title"><a href="https://mundodavelocidade.com.br/indycar/vitorias-brasileiras-na-indy500-corridas-completas/" title="Vitórias brasileiras na Indy500, corridas completas">Vitórias brasileiras na Indy500, corridas completas</a></h3>
 
 							</div><!-- .related-item /-->
 
@@ -773,14 +773,14 @@ Obrigado por estarem aqui e sejam BEM VINDOS ao Mundo da Velocidade!!				</div><
 							<div class="related-item tie-standard">
 
 								
-			<a href="https://mundodavelocidade.com.br/indycar/tony-kanaan-garante-a-volta-mais-rapida-no-carburation-day/" title="Tony Kanaan garante a volta mais rápida no Carburation Day" class="post-thumb">
+			<a href="https://mundodavelocidade.com.br/indycar/pietro-fittipaldi-encerra-temporada-da-indy-destacando-conquistas-em-ano-de-estreia/" title="Pietro Fittipaldi encerra temporada da Indy destacando conquistas em ano de estreia" class="post-thumb">
 				<div class="post-thumb-overlay-wrap">
 					<div class="post-thumb-overlay">
 						<span class="icon"></span>
 					</div>
 				</div>
-			<img width="390" height="220" src="https://mundodavelocidade.com.br/wp-content/uploads/2018/06/758618286-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" /></a><div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>maio 25, 2018</span></span><div class="tie-alignright"></div><div class="clearfix"></div></div><!-- .post-meta -->
-								<h3 class="post-title"><a href="https://mundodavelocidade.com.br/indycar/tony-kanaan-garante-a-volta-mais-rapida-no-carburation-day/" title="Tony Kanaan garante a volta mais rápida no Carburation Day">Tony Kanaan garante a volta mais rápida no Carburation Day</a></h3>
+			<img width="390" height="220" src="https://mundodavelocidade.com.br/wp-content/uploads/2018/09/346306_825097_pfittipaldi_17.indy_josemariodias_01012-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" /></a><div class="post-meta"><span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>setembro 18, 2018</span></span><div class="tie-alignright"></div><div class="clearfix"></div></div><!-- .post-meta -->
+								<h3 class="post-title"><a href="https://mundodavelocidade.com.br/indycar/pietro-fittipaldi-encerra-temporada-da-indy-destacando-conquistas-em-ano-de-estreia/" title="Pietro Fittipaldi encerra temporada da Indy destacando conquistas em ano de estreia">Pietro Fittipaldi encerra temporada da Indy destacando conquistas em ano de estreia</a></h3>
 
 							</div><!-- .related-item /-->
 
@@ -826,24 +826,24 @@ Obrigado por estarem aqui e sejam BEM VINDOS ao Mundo da Velocidade!!				</div><
 			<ul class="posts-list-items">
 
 			
-<li class="widget-post-list">
+<li class="widget-post-list tie-standard">
 
 			<div class="post-widget-thumbnail">
 
 			
-			<a href="https://mundodavelocidade.com.br/indycar/vitorias-brasileiras-na-indy500-corridas-completas/" title="Vitórias brasileiras na Indy500, corridas completas" class="post-thumb"><h5 class="post-cat-wrap"><span class="post-cat tie-cat-5">IndyCar</span></h5>
+			<a href="https://mundodavelocidade.com.br/indycar/will-power-lidera-scott-mclaughlin-e-destaque-brasileiros-estreiam-apos-seis-horas-de-testes-da-indycar-em-austin/" title="Will Power lidera, Scott McLaughlin é destaque, brasileiros estreiam, após seis horas de testes da IndyCar, em Austin" class="post-thumb"><h5 class="post-cat-wrap"><span class="post-cat tie-cat-5">IndyCar</span></h5>
 				<div class="post-thumb-overlay-wrap">
 					<div class="post-thumb-overlay">
 						<span class="icon"></span>
 					</div>
 				</div>
-			<img width="390" height="220" src="https://mundodavelocidade.com.br/wp-content/uploads/2020/05/IMG_20200524_064525-390x220.jpg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" /></a>		</div><!-- post-alignleft /-->
+			<img width="390" height="220" src="https://mundodavelocidade.com.br/wp-content/uploads/2020/02/EQhkq2EUYAAKw79-390x220.jpeg" class="attachment-jannah-image-large size-jannah-image-large wp-post-image" alt="" /></a>		</div><!-- post-alignleft /-->
 	
 	<div class="post-widget-body ">
-		<h3 class="post-title"><a href="https://mundodavelocidade.com.br/indycar/vitorias-brasileiras-na-indy500-corridas-completas/" title="Vitórias brasileiras na Indy500, corridas completas">Vitórias brasileiras na Indy500, corridas completas</a></h3>
+		<h3 class="post-title"><a href="https://mundodavelocidade.com.br/indycar/will-power-lidera-scott-mclaughlin-e-destaque-brasileiros-estreiam-apos-seis-horas-de-testes-da-indycar-em-austin/" title="Will Power lidera, Scott McLaughlin é destaque, brasileiros estreiam, após seis horas de testes da IndyCar, em Austin">Will Power lidera, Scott McLaughlin é destaque, brasileiros estreiam, após seis horas de testes da IndyCar, em Austin</a></h3>
 
 		<div class="post-meta">
-			<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>maio 24, 2020</span></span>		</div>
+			<span class="date meta-item"><span class="fa fa-clock-o" aria-hidden="true"></span> <span>fevereiro 12, 2020</span></span>		</div>
 	</div>
 </li>
 
