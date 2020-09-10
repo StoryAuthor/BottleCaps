@@ -1,4 +1,5 @@
 ![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/BottleCaps/blob/master/0QPv5J_0WiA8Vzx00.jpg)
+![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/BottleCaps/blob/master/1f25217034f541ff927594b45e9cf6e2.jpg)
 ![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/BottleCaps/blob/master/1jzs9a_0Wt0Wm6b00.jpg)
 ![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/BottleCaps/blob/master/2A2c2Z_0WimfGmi00.jpg)
 ![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/BottleCaps/blob/master/3NsY7U_0Wj51iDW00.jpg)
