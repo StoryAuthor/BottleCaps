@@ -43,8 +43,6 @@
 ![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/BottleCaps/blob/master/32f0a4f27407.png)
 ![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/BottleCaps/blob/master/35928083_2095788050703994_6523457317147508736_n.jpg)
 ![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/BottleCaps/blob/master/3NsY7U_0Wj51iDW00.jpg)
-![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/BottleCaps/blob/master/42c3233661c04c208fe0a138271eeb86.jpg)
-![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/BottleCaps/blob/master/4d5df181885e4fb08201fcaca91c6c82.jpg)
 ![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/BottleCaps/blob/master/53053002_121066515652330_6991196809680562991_n.jpg)
 ![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/BottleCaps/blob/master/65c15d7731ea.png)
 ![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/BottleCaps/blob/master/72410841_144805520126023_4847006369655593828_n.jpg)
